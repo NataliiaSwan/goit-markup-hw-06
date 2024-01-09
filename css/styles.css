@@ -445,6 +445,7 @@ a.header-address-link {
 @media only screen and (min-width: 1158px) {
   .feature-page {
     width: 264px;
+    font-weight: 400;
   }
 }
 
